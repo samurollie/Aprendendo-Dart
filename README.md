@@ -17,3 +17,5 @@
 ```
 Dart <nome do programa> <argumentos>
 ```
+
+* A pasta orientacao_objeto possui todos os arquivos do ultimo módulo (Não quis criar um novo repositório só pra isso rs)
