@@ -1,5 +1,11 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Aprendendo Dart
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+### Repositório com os códigos criados por mim em quanto eu aprendia dart.
+
+* A estrutura de pastas nesse repositório foi criada pela extensão do dart para VSCode, para ter uma semelhante:
+
+```
+(F1) > Dart: New Project (Se o VSCode pedir para instalar ou ativar alguma coisa, aceite) > Command Line Project > (Insira o nome do projeto)
+```
+
+* Na pasta Lib, os arquivos array.dart, Hello.dart, imc.dart, input.dart e map.dart não fazem parte do projeto em si, são so arquivos referentes às aulas da Seção 1 - 8
