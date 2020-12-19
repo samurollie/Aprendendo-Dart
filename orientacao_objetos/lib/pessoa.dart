@@ -8,7 +8,7 @@ class Pessoa {
   String _cpf;
   // O dart suporta a proteção de atributos, para isso basta colocar um underline no inicio do nome da variavel;
 
-  final String planeta = "Terra";
+  final String planeta = 'Terra';
   // Para criar uma constante com o dart, basta colocar a palavra chave "final" antes do tipo da variável, desta forma o seu valor não poderá ser alterado;
 
   Pessoa({String nome, int idade, String sexo}) {
